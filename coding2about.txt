@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<img src="http://gicgurgaon.com/wp-content/uploads/2016/06/cropped-Pind-Logo-Round-2.jpg" alt = "PIND BALLUCHI " width="270" height="170">
+<ul class="topnav">
+  <li><a href="file:///C:/Users/Bhupesh/Desktop/Bhupesh/EXTRA/rav%20site/main/PBHOME.html">HOME</a></li>
+  <li><a class="active" href="file:///C:/Users/Bhupesh/Desktop/Bhupesh/EXTRA/rav%20site/main/PBABOUT.html">ABOUT</a></li>
+  <li><a href="file:///C:/Users/Bhupesh/Desktop/Bhupesh/EXTRA/rav%20site/main/PBMENU.html">MENU</a></li>
+  <li><a href="file:///C:/Users/Bhupesh/Desktop/Bhupesh/EXTRA/rav%20site/main/PBCONTACT.html">CONTACT US</a></li>
+  <li><a href="file:///C:/Users/Bhupesh/Desktop/Bhupesh/EXTRA/rav%20site/main/PBFEED.html">FEEDBACK</a></li>
+</ul>
+<div style="padding:0 16px;">
+
+<br>
+<br>
+<h2>ABOUT US</h2>
+<p>
+Feel like treating yourself to an Authentic North Indian Meal???
+
+
+Pind Balluchi is the ideal place to satiate all your North Indian food cravings and transports you into the quintessential Pind of Punjab. Known across the country for its delectable North Indian Delicacies, The experience starts from the entrance itself where effigy of traditionally attired Sardar Ji is sitting in a Manji (traditional cot) and Durban in a typical punjabi dress welcomes you with a Sat Sri Akal. The traditional entrance doors, jharokhas, wooden chairs, lanterns add on to the entire village set up along with the waiters of the restaurant who are attired in a traditional uniform. 
+
+Artificial Banyan Tree under the romantic and cozy moon lit sky effects, mud plastered walls, jharokhas with dazzling hanging beads and bangles play a vital role in enhancing the aesthetics of the restaurant. The open kitchen of the restaurant resembles an open dhaba with simmering effects of tandoors and steamy tawa preparations which makes your dining experience a memorable one.
+</p>
+
+<h3>Shri. Jaspal Singh Chadha</h3>
+<p>
+(Chairman - JS Hospitality Services Pvt Ltd)
+The company, J.S Hospitality is fastest growing group and is owned by Shri Jaspal Singh Chadha. Since its launch, in 1992 the company has rapidly grown to become a dynamic force in the hospitality industry in Delhi NCR and has recently started spreading its wings across the country through franchisee routes. Shri. JS Chadha has been in the industry for last 24 years and has always believed that all restaurants seem to be adopting Global Cuisines today. However, our own Indian food specially North Indian , is more permanent than other cuisines which are more likeable by the Indian Palate, which is the prime reason behind the concept of Pind Balluchi.
+</p>
+<h3>Passion & Inspiration</h3>
+<p>
+Work has always been his passion and he draws his inspiration from whatever he has learned in life. He has quit 8 other businesses before moving on to the hospitality industry, that’s when he realized that customer service was his real calling. Shri.JS Chadha Ji, strongly believes in God and says one can achieve anything and everything in life with hard work and belief in God and yourself.
+</p>
+<h3>Awards & Recognition</h3>
+<p>
+Shri. JS Chadha has also been the winner of National Tourism Award from the Ministry of Tourism, Govt. of India for the Best Restaurant Of Indiafor 5 consecutive years and has received the awards from the Prime Minister of India and the Vice President of India. Shri. JS Chadha has also received the Achievers Award from the Deputy Chief Minister of Punjab.
+</p>
+<h3>Village Themed Ambience</h3>
+<p>
+Pind Balluchi is the ideal hotspot if you want to dine in a place that transports you into the quintessential era full of North Indian Delicacies. All the outlets are a fine example of balance, where traditional and the modern design elements co-exist in natural harmony with five elements of nature :Air , Water , Earth , Fire and Aether. The experience of the quintessential Pind in Punjab starts from the entrance itself where the effigy of tbraditionally attired Sardar Ji is sitting in a ‘Manji’ and a Durban in typical Punjabi dress is there to welcome you with ‘Sat Sri Akal’,meaning ‘ Truth is the ultimate God’. The traditional entrance door, Wooden Chairs, Lanterns , Bangles Mud Wall Coverings ,Waiters of the Restaurant with the Traditional Pajama and Kurta ,along with the Bronze Water Tumblers, Crockery and Cutlery, add on to the entire theme of the restaurant . The open kitchen which is a focal point of the restaurant, gives Pind Balluchi its heart and soul, and exudes a feeling of dining in a virtual food factory with steamy tawa preparations which make your dining experience a memorable one . Pind Balluchi is a delight for the Youngsters who have not been able to feel the worth of an Indian Village in reality.
+</p>
+<h3>Foodies Heaven</h3>
+<p>
+Pind Balluchi serves more than 100 varieties from the cuisines from the North Indian Cuisine to satiate your taste buds and has become a trend setter in this genre, sporting a menu that one can try any hour of the day.
+<br>
+Serving the specialty cuisine from the province of Punjab and Rajasthan, the menu of the restaurant is specially designed keeping in view the requisite of all the North Indian Food Hunters.
+<br>
+The beverages are made to quench the thirst of the customer, which particularly includes Tomato & Chicken ka shorba.
+<br>
+The assortment of kebab preparations are absolutely delectable and some of the must haves are the Kalmi Kebab,Tangri Kebab, Pind Boti Kebab, Dahi Ke Kebab and Mushroom Kurkure.
+<br>
+For the main course, the chefs have created an array of mouth watering preparations like :Jalandhari Raan, Amritsari Fish, Murgh Potli ,Dohra Kebab, Dhaba Murgh and Saagwala Murgh. There are more than 20 varieties of Chicken alone in a special Murgh menu.
+<br>
+For vegetarians, Pind Balluchi favorites are Sarson ka Saag, Dal Makhni and a wide variety of Soya preparations. Varki Paratha in silver foil is a favourite among diners. Everything in the dessert section is home-made and a must-try is either the Gulab Jamun or the Tilla Kulfi.
+<br>
+Another USP for Pind Balluchi is its methodology of giving value for money with an average cost per person of Rs.350/- only .
+<br>
+   </p> </body>
+</html>
